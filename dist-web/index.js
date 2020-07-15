@@ -27,7 +27,7 @@ const getGreyColor = (theme, opacity) => {
 
 var styles = (theme => ({
   'player-container': {
-    padding: theme.spacing.unit
+    padding: theme.spacing(1)
   },
   'player-default-icon': {
     padding: '0px',
