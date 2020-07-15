@@ -1,6 +1,6 @@
 import { Grid, Paper, Typography, withStyles } from '@material-ui/core';
 import { Repeat as LoopStatusIcon, VolumeMute as MuteStatusIcon } from '@material-ui/icons';
-import { Slider } from '@material-ui/lab';
+import { Slider } from '@material-ui/core';
 import css from 'classnames';
 import React, { Fragment } from 'react';
 import styles from './styles';
